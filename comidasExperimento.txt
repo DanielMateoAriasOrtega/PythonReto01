@@ -1,0 +1,8 @@
+Informe de Experimentos Científicos
+========================================
+Nombre: comida
+Fecha: 2024-12-12
+Tipo: Quimica
+Resultados: [12.0, 12.0]
+
+========================================
